@@ -1,0 +1,34 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 3rem;
+}
+
+.foto{
+    margin-left: 2rem;
+    margin-top: 1,5rem;
+    margin-bottom: 0rem;
+}
+
+.foto figure{
+    margin: 0;
+}
+
+h1{
+    margin-left: 0,25rem;
+}
+
+h2{
+    margin-left: 0,25rem;
+    margin-bottom: 1,5rem;
+}
+
+.ingredientes{
+    font-size: medium;
+}
+
+.preparo{
+    font-size: medium;
+}
