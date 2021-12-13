@@ -92,5 +92,3 @@ Então, bora codar! 👨‍💻👩‍💻
 <<<<<<< HEAD
     - Pode direcionar o **link** para seu repositório do Github. (opcional)
 =======
-    - Pode direcionar o **link** para seu repositório do Github. (opcional)
->>>>>>> 33801dd (Alteração no README.md)
