@@ -89,4 +89,8 @@ Então, bora codar! 👨‍💻👩‍💻
 - O modo de preparo deve ser apresentado como uma **lista ordenada** `<ol>`.
 - Deve ter uma seção `Informações adicionais` com um **parágrafo** com a **descrição da receita.**
 - No final da receita deve ter um **rodapé** com seus créditos.
+<<<<<<< HEAD
     - Pode direcionar o **link** para seu repositório do Github. (opcional)
+=======
+    - Pode direcionar o **link** para seu repositório do Github. (opcional)
+>>>>>>> 33801dd (Alteração no README.md)
